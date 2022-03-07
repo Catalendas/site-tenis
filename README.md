@@ -11,8 +11,9 @@
 
 ## Ilustração do projeto
 
-
-    ![Gif do projeto](Animacao.gif)
+    <p align="center">
+        <img src="Animacao.gif">
+    </p>
 
 
 <br>
