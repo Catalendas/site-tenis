@@ -9,10 +9,8 @@
 
 ## Ilustração do projeto
 
-
+![Animacao](https://user-images.githubusercontent.com/82763928/157063318-ef7750d5-8183-49a1-8303-1609847303a2.gif)
         
-
-
 <br>
 
 ## Tecnologias utilizadas
