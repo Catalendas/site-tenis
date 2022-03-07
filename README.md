@@ -7,13 +7,10 @@
 #### 🚀 Projeto terminado 🚀
 
 
-<br>
-
 ## Ilustração do projeto
 
-    <p align="center">
-        <img src="Animacao.gif">
-    </p>
+
+        
 
 
 <br>
