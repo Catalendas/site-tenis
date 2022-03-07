@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: romboto, sans-serif;
+}
+
+body {
+    width: 1347px;
+    height: 1040px;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+nav {
+    height: 48px;
+    display: flex;
+    width: 1320px;
+    justify-content:space-around;
+    align-items: center;
+    position: absolute;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap:8rem;
+   
+}
+
+.pesquisa{
+    height: 35px;
+    width: 220px;
+    background: white;
+    display: flex;
+    align-items: center;
+    gap: .8rem;
+}
+
+main {
+    display: flex;
+    width:  1347px;
+    height:920px;
+    flex: 1;
+}
+
+.preco{
+    background: #ECECED;
+    height: 920px;
+    width: 50vw;
+    
+    display: flex  ;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container2{  
+    height:920px;
+    background: #C4C4C4;  
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.conteudo {
+    width: 357px;
+    height: 533px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.preco > .conteudo h1 {
+    font-size: 2.5rem;
+    width: 250px;
+}
+
+.preco > .conteudo p{
+    font-size: .8rem;
+}
+
+button {
+    cursor: pointer;
+    height: 80px;
+    color: white;
+    background: red;
+    font-size: 20px;
+    border: none;
+    width: 200px;
+
+}
+
+
+.galeria {
+    width: 900px;
+    height: 914px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    align-items: flex-end;
+}
+
+.img1{
+    width: 597px;
+    height: 510.82px;
+    margin-left: 19px;
+}
+
+.img2 {
+    width: 269.51px;
+    height: 182.8px;
+    margin-bottom: 20px;
+}
+
+.img3{
+    width: 250px;
+    height: 187.88px;
+    margin-bottom: 20px;
+}
+
+.img4{
+    width: 270px;
+    height: 182.8px;
+    margin-bottom: 20px;
+}
+
+
+
+/* RODAPe */
+
+footer {
+    height: 166px;
+    width: 1347px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+footer button {
+    display: flex;
+    align-items: center;
+    gap: .8rem;
+    height: 166px;
+    width: 437px;
+    justify-content: center;
+    background-color: black;
+}
+
+footer ul {
+    margin: 30px 30px;
+}
